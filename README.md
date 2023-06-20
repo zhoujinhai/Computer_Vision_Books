@@ -14,9 +14,11 @@
 
 - 《机器视觉算法与应用》
   
-  ![image](https://github.com/zhoujinhai/Computer_Vision_Books/assets/20365125/cfdcff20-8e18-4fd0-8ba8-f963054de0a6)
+  
+  ![image](https://github.com/zhoujinhai/Computer_Vision_Books/assets/20365125/f34560e6-fadd-4489-b614-a847e694c11c)
 
 - 《计算机视觉中的数学方法》
-  ![image](https://github.com/zhoujinhai/Computer_Vision_Books/assets/20365125/f34560e6-fadd-4489-b614-a847e694c11c)
+  
+  ![image](https://github.com/zhoujinhai/Computer_Vision_Books/assets/20365125/cfdcff20-8e18-4fd0-8ba8-f963054de0a6)
 
 
